@@ -399,3 +399,7 @@ FodyWeavers.xsd
 
 # Virtual environment
 .venv/
+datasets/mp_20/test.csv
+.gitignore
+datasets/mp_20/val.csv
+datasets/mp_20/train.csv
